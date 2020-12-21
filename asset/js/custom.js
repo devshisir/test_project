@@ -15,10 +15,13 @@ owl.owlCarousel({
     smartSpeed: 1000,
     mouseDrag: false,
     touchDrag: false,
-    pullDrag: false,
+    pullDrag: true,
     responsive:{
         0:{
-            items:1
+            items:1,
+            mouseDrag: true,
+            touchDrag: true,
+            pullDrag: true,
         },
         600:{
             items:1

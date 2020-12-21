@@ -1,0 +1,103 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #section2Content .section2SliderActive .section2SliderItem h4 {
+        text-align: center;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 28px;
+        line-height: 42px;
+        width: 84%;
+        margin: 0 auto;
+        animation-duration: 1s;
+    }
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #section2Content .section2SliderActive .section2SliderItem h4 {
+        text-align: center;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 28px;
+        line-height: 42px;
+        width: 100%;
+        margin: 0 auto;
+        animation-duration: 1s;
+    }
+
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #section2Content .section2SliderActive .section2SliderItem h4 {
+        text-align: center;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 23px;
+        line-height: 35px;
+        width: 100%;
+        margin: 0 auto;
+        animation-duration: 1s;
+    }
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #section2Content .section2SliderActive .section2SliderItem h4 {
+        text-align: center;
+        font-weight: 300;
+        font-style: italic;
+        font-size: 15px;
+        line-height: 23px;
+        width: 100%;
+        margin: 0 auto;
+        animation-duration: 1s;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

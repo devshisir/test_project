@@ -1,0 +1,65 @@
+@import 'import/reset.scss';
+@import 'import/_color.scss';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------
+main code start here 
+-------------------------*/
+
+
+
+#section2Content{
+   padding: 50px 0px;
+   background: #fff;
+   .section2SliderActive{
+      .section2SliderItem{
+         h4{
+            text-align: center;
+            font-weight: 300;
+            font-style: italic;
+            font-size: 30px;
+            line-height: 46px;
+            width: 60%;
+            margin: 0 auto;
+            animation-duration: 1s;
+            span{
+               color: #c89c6d;
+            }
+         }
+         img{
+            margin-top: 30px;
+         }
+      }
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
